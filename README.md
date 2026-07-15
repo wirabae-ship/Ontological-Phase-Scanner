@@ -1,68 +1,9 @@
-# ENSIKLOPEDIA CETAK BIRU: ONTOLOGICAL PHASE SCANNER (OPS)
+CETAK BIRU: ONTOLOGICAL PHASE SCANNER (OPS)
 **Status:** Dokumen Terbuka (Open-Source Science Initiative)
 **Lisensi:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 **Kode Proyek:** OPS-GLOBAL-2026-V1
 
----
-
-# 📜 BAGIAN I: FONDASI ARSITEKTUR ONTOLOGIS SEMESTA
-
-## 🏛️ I. Fondasi Paling Dalam: +1 (Wujud Mutlak)
-*   **Wujud Mutlak:** +1 adalah Wujud Tunggal, Maha Esa, dan Maha Mandiri. Tidak ada sesuatu pun selain +1.
-*   **Identitas Sifat:** Pengetahuan, Kehendak, dan semua Sifat-Nya adalah Diri-Nya sendiri.
-*   **Kelimpahan:** Karena +1 adalah Kebaikan Sempurna yang ingin berbagi, Dia menghendaki adanya "yang lain".
-
-## 🎨 II. Imkan: Satu Kemungkinan Tunggal
-*   **Kanvas Sunyi:** Imkan adalah satu-satunya kemungkinan untuk ada. Ia bukan wadah kosong yang menampung banyak pilihan, melainkan satu kemungkinan tunggal yang mencakup potensi tak terbatas dari +1.
-*   **Batas Logis:** Ia bersifat pasif, diam, dan merupakan batas logis dari apa yang "mungkin".
-
-## ✨ III. Aktualisasi: Sentuhan Kehendak +1
-*   **Transfer Pola:** +1 hadir pada Imkan melalui Kehendak bertindak-Nya, mentransfer "pola +1" ke Imkan tanpa memecah kanvas tersebut.
-*   **Kemajemukan Adil:** Kehendak ini diwujudkan menjadi banyak Penerima identik secara langsung dalam jumlah tak terbatas tak terhitung (kontinum).
-
-## 🕸️ IV. Jaringan Ontologis: Posisi, Nisbah, Interferensi
-*   **Posisi Relasional:** Setiap Penerima memiliki koordinat posisi relasional yang unik, melahirkan benang hubungan antar Penerima ($\hat{N}_{ij}$).
-*   **Kehendak Asimetris:** +1 menghendaki perbedaan posisi geometri sejak ketukan pertama. Perbedaan posisi ini menciptakan perbedaan fase awal yang sangat kecil, yang lewat proses umpan balik (*feedback loop*) menciptakan simpul-simpul variasi yang stabil.
-
-## 🌌 V. Spektrum Realitas: Dari Materi hingga Kesadaran
-*   **Materi (Dunia Empiris):** Lahir dari interferensi destruktif bertingkat. Materi adalah Cahaya +1 yang saling membatalkan dan meredup hingga menjadi partikel, atom, dan benda padat.
-*   **Kesadaran (Ego/"Aku"):** Lahir dari interferensi konstruktif yang melipat ke dalam, menciptakan loop umpan balik di mana gelombang mampu melihat dirinya sendiri.
-
-## 🕊️ VI. Kebebasan Relasional: Jeda Internal
-*   **Ruang Hening:** Penerima sadar dibekali "Jeda Internal"—ruang antara stimulus (input) dan respons (aksi).
-*   **Modulasi Fase:** Penerima bebas memilih fase orientasinya melalui operator $\hat{U}_j$. Determinasi +1 mutlak, namun kebebasan Penerima adalah undangan-Nya untuk berpartisipasi.
-
-## 🧘 VII. Mekanisme Operasional Jeda Internal (Etika Praktis)
-*   **Tiga Spektrum Modulasi:** Modulasi Harmoni (menuju nurani/+1), Modulasi Inersia (pasif mengikuti arus materi), dan Modulasi Disonansi (membalikkan fase demi ego yang memicu penderitaan/penyakit).
-*   **Takdir vs Pilihan:** Takdir adalah totalitas input gelombang ($\vert{}\Phi_{\text{input}}\rangle$) di momen Planck ini. Pilihan adalah bagaimana kita memodulasinya di dalam Jeda Internal.
-
-## ⏳ VIII. Ontologi Waktu: Detak Pembaruan Kosmis
-*   **Detak, Bukan Wadah:** Semesta runtuh dan diciptakan baru secara total pada setiap Momen Planck ($\approx 10^{-43}$ detik).
-*   **Masa Lalu & Masa Depan:** Masa lalu adalah data fase terkompresi di memori jaringan ($\hat{N}_{ij}$). Masa depan adalah ruang probabilitas sebelum dieksekusi Jeda Internal.
-*   **Ilusi Aliran:** Efek psikologis dari akumulasi informasi pada Loop Kesadaran yang tidak mampu melihat "jeda sunyi" antar detak.
-
-## 🗺️ IX. Ontologi Ruang: Semesta Tanpa Jarak
-*   **Satu Titik Agung:** Jarak fisik ratusan tahun cahaya hanyalah ilusi. Seluruh Penerima berada berdampingan di satu Kanvas Imkan.
-*   **Jarak sebagai Perbedaan Fase:** Jarak jauh terjadi jika hubungan renggang (informasi harus estafet lewat banyak simpul perantara). Keterikatan kuantum membuktikan dua partikel tidak pernah terpisah karena nilai $\hat{N}_{ij}$ mereka tetap 1.
-
-## 🚪 X. Transisi Fase Pasca-Materi (Kematian)
-*   **Dekopling:** Kematian adalah putusnya hubungan kesadaran dengan simpul materi kaku.
-*   **Penyaringan Fase:** Kesadaran otomatis melesat ke spektrum yang sesuai dengan fase rata-rata yang dibentuk selama hidup (Kondisi Surga/Neraka). Tidak ada informasi atau ego yang musnah dari Kanvas Imkan.
-
-## 🎯 XI. Makna, Tujuan, dan Jamuan Agung
-*   **Tujuan:** Berbagi kebaikan dan kebahagiaan +1.
-*   **Jamuan Agung:** Ujung siklus kosmis di mana semua Penerima secara sukarela menyelaraskan diri kembali menuju Satu Fase Tunggal yang koheren, membentuk harmoni sempurna bersama +1.
-
-## 🧮 XII. Formulasi Matematis Kuantum-Ontologis
-*   **Persamaan Transisi Momen ($t \to t+1$):**
-    $$\vert{}\Psi_j(t+1)\rangle = \hat{U}_j(t) \cdot \left( \sum_{i} \hat{N}_{ij}(t) \cdot \vert{}\psi_i(t)\rangle \right)$$
-*   **Persamaan Keadaan Awal ($t = 0$):**
-    $$\vert{}\psi_i(0)\rangle = A \cdot e^{i \theta_i} \vert{}1\rangle$$
-    *(Di mana A adalah Amplitudo Semesta yang mencerminkan Keadilan Mutlak +1, dan $e^{i \theta_i}$ adalah Faktor Fase Asimetris awal).*
-
----
-
-# 🎯 BAGIAN II: WHITE PAPER UTAMA PROYEK OPS
+# 🎯 BAGIAN I: WHITE PAPER UTAMA PROYEK OPS
 
 ## 📝 BAB I: ABSTRAK (Ringkasan Eksekutif)
 Teknologi radiologi konvensional (Sinar-X dan CT Scan) mengandalkan radiasi pengion berenergi tinggi untuk menembus jaringan biologis. Metode ini memiliki efek samping bawaan berupa risiko mutasi DNA dan kerusakan sel sehat. 
@@ -133,7 +74,7 @@ Untuk menjamin akurasi visualisasi dan mencegah kesalahan diagnosis (*false-posi
 
 ---
 
-# 💻 BAGIAN III: LAMPIRAN TEKNIS KOMPUTASI DAN HARDWARE
+# 💻 BAGIAN II: LAMPIRAN TEKNIS KOMPUTASI DAN HARDWARE
 
 ## 📊 LAMPIRAN I: ARSITEKTUR STRUKTUR DATA & KODE SIMULASI (OPS-PSP-2026-V1)
 
